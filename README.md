@@ -46,5 +46,7 @@ Me apasiona la tecnología y el aprendizaje continuo. Estoy interesada en temas 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![ Github stats](https://github-readme-stats.unername=)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobito311&layout=compact)
+
 
