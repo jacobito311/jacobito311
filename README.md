@@ -3,7 +3,7 @@
 
 **Título:** Estudiante de Ciencias de la Computación
 
-**Ubicación:** Ciudad de México, México
+**Ubicación:** Manizales, Caldas, Colombia
 
 **Sobre mí:**
 Soy estudiante de Ciencias de la Computación con una pasión por el desarrollo web. Me considero un desarrollador full stack, capaz de trabajar tanto en el front-end como en el back-end. Me encanta crear aplicaciones web interactivas y eficientes que resuelvan problemas del mundo real.
