@@ -6,7 +6,7 @@
 **Ubicación:** Ciudad de México, México
 
 **Sobre mí:**
-Soy estudiante de Ciencias de la Computación con una pasión por el desarrollo web. Me considero una desarrolladora full stack, capaz de trabajar tanto en el front-end como en el back-end. Me encanta crear aplicaciones web interactivas y eficientes que resuelvan problemas del mundo real.
+Soy estudiante de Ciencias de la Computación con una pasión por el desarrollo web. Me considero un desarrollador full stack, capaz de trabajar tanto en el front-end como en el back-end. Me encanta crear aplicaciones web interactivas y eficientes que resuelvan problemas del mundo real.
 
 **Habilidades:**
 
